@@ -1,5 +1,3 @@
-# LUA-TypeScript-Comparison
-
 | Concept | Lua | TypeScript | JavaScript |
 |---------|-----|------------|------------|
 | **Variables** | `local name = "John"` | `let name: string = "John";` | `let name = "John";` |
@@ -43,3 +41,5 @@ Note: This comparison is a high-level overview and does not cover every aspect o
 
 
 ***Please also note that mistakes can occur this is not meant to directly copy from for syntax, Please also note this is more so a tool to help while learning to and from each language.***
+
+This project was made for a school project, Please note that I am not that invested and was purely meant to show that I am capable and able to make docs for .md readmes for github.
